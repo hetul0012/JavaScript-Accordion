@@ -1,0 +1,17 @@
+.accordion-section {
+    display: none;
+    padding: 10px;
+
+  }
+  
+  .panel a {
+    display: block;
+    padding: 10px;
+    background: #eee;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .panel a:hover {
+    background: #ddd;
+  }
